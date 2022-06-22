@@ -12,3 +12,4 @@ Skill :
 ✪ Photoshop
 ✪ VS code 
 ✪ adobe premiere
+✪ FB suport
