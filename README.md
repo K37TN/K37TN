@@ -7,4 +7,8 @@
 <!---
 K37TN/K37TN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->FPT  POLYTECHNICH
+--->Chống lừa đảo (IT Softwere)
+Skill : 
+✪ Photoshop
+✪ VS code 
+✪ adobe premiere
